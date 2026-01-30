@@ -4,9 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=600&lines=Studente+presso+ITIS+Rossi;Classe+3AII;Cybersecurity+%7C+IT+%7C+Coding;Network+Security" alt="Typing SVG" /></a>
 
-<br/><br/>
-
-<br/><br/>
+<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
