@@ -46,14 +46,11 @@ const alessandro = {
 ## Connettiti
 
 <p align="center">
-  <a href="https://github.com/alessandropanait">
+  <a href="https://github.com/panaitalessandro">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:tua-email@example.com">
+  <a href="mailto:alessandro.panait@icloud.com">
     <img src="https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/tuo-profilo">
-    <img src="https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
