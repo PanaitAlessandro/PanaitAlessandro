@@ -4,11 +4,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=600&lines=Studente+presso+ITIS+Rossi;Classe+3AII;Cybersecurity+%7C+IT+%7C+Coding;Network+Security" alt="Typing SVG" /></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
-<br/>
+<br/><br/>
 
 <div style="position: relative; display: inline-block;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN6aHB0a2ZsYjF3d2l0Z3VnZ2J5dWZ2dG1kN3N3eWw4dW1xZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="450" style="border-radius: 20px; box-shadow: 0 0 30px rgba(255, 107, 53, 0.6);"/>
