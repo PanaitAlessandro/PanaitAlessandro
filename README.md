@@ -1,4 +1,4 @@
-```diff
+```console
 ┌──(alessandro㉿panait)-[~]
 └─$ neofetch
 
@@ -23,17 +23,17 @@
 ┌──(alessandro㉿panait)-[~]
 └─$ cat /etc/skills.conf
 
-+ [LANGUAGES]
+[LANGUAGES]
 Python
 JavaScript  
 HTML/CSS
 
-+ [TOOLS]
+[TOOLS]
 Linux
 Git
 Networking
 
-+ [FOCUS]
+[FOCUS]
 Cybersecurity
 Reverse Engineering
 Web Security
