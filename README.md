@@ -1,31 +1,72 @@
-<div align="center">
+```diff
+┌──(alessandro㉿panait)-[~]
+└─$ neofetch
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,9&height=230&section=header&text=ALESSANDRO%20PANAIT&fontSize=54&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
+       _,met$$$$$gg.          alessandro@panait
+    ,g$$$$$$$$$$$$$$$P.       ──────────────────────
+  ,g$$P"     """Y$$.".        User: Alessandro Panait
+ ,$$P'              `$$$.     School: ITIS Rossi
+',$$P       ,ggs.     `$$b:   Class: 3AII
+`d$$'     ,$P"'   .    $$$    Role: Student
+ $$P      d$'     ,    $$P    Shell: /bin/bash
+ $$:      $$.   -    ,d$$'    Status: Learning mode
+ $$;      Y$b._   _,d$P'      
+ Y$$.    `.`"Y$$$$P"'         
+ `$$b      "-.__              
+  `Y$$                        
+   `Y$$.                      
+     `$$b.                    
+       `Y$$b.                 
+          `"Y$b._             
+              `"""            
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Studente+presso+ITIS+Rossi;Classe+3AII;Cybersecurity+%7C+IT+%7C+Coding;Network+Security" alt="Typing SVG" />
-</a>
+┌──(alessandro㉿panait)-[~]
+└─$ cat /etc/skills.conf
 
-<br/><br/>
++ [LANGUAGES]
+Python
+JavaScript  
+HTML/CSS
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="850">
++ [TOOLS]
+Linux
+Git
+Networking
 
-<br/><br/>
++ [FOCUS]
+Cybersecurity
+Reverse Engineering
+Web Security
+Pwn
+Cryptography
+Network Security
 
-<h2>Tech Stack</h2>
+┌──(alessandro㉿panait)-[~]
+└─$ systemctl status mindset.service
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,linux&perline=6" />
-</p>
+● mindset.service - Student Operating System
+   Loaded: loaded (/etc/systemd/system/mindset.service)
+   Active: active (running)
+   
+   Process: Learning [RUNNING]
+   Process: Building [RUNNING]
+   Process: Securing [RUNNING]
 
-<br/>
+┌──(alessandro㉿panait)-[~]
+└─$ tail -f /var/log/activity.log
 
-<div align="center">
+[2025-02-15 14:23:01] Studying network protocols
+[2025-02-15 14:45:33] Building security tools
+[2025-02-15 15:12:47] Learning penetration testing
+[2025-02-15 16:38:22] Analyzing system vulnerabilities
+[2025-02-15 17:05:19] Git commit: "another day, another exploit"
 
-```javascript
-const alessandro = {
-    scuola: "ITIS Rossi",
-    classe: "3AII",
-    skills: ["HTML", "CSS", "JavaScript", "Python", "Git", "Linux"],
-    status: "Online"
-};
+┌──(alessandro㉿panait)-[~]
+└─$ cat /proc/motivation
+
+I build. I break. I secure.
+
+┌──(alessandro㉿panait)-[~]
+└─$ exit
+logout
+```
