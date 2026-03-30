@@ -70,12 +70,6 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroPanait&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=12&border_color=2d8a4e&bg_color=0d1f12&title_color=5dde8a&icon_color=3DFF7A&text_color=a8ffcc"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroPanait&layout=compact&theme=chartreuse-dark&border_radius=12&border_color=2d8a4e&bg_color=0d1f12&title_color=5dde8a&text_color=a8ffcc"/>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandroPanait&theme=chartreuse-dark&border_radius=12&border=2d8a4e&background=0d1f12&stroke=2d8a4e&ring=3DFF7A&fire=5dde8a&currStreakLabel=a8ffcc&sideLabels=a8ffcc&dates=5dde8a&currStreakNum=3DFF7A&sideNums=5dde8a" />
 
 </div>
