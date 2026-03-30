@@ -45,14 +45,10 @@
 
 ## ⟨ Tech Stack ⟩
 
-</div>
-
-<div align="center">
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 
 <br/>
 
@@ -70,7 +66,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandroPanait&theme=chartreuse-dark&border_radius=12&border=2d8a4e&background=0d1f12&stroke=2d8a4e&ring=3DFF7A&fire=5dde8a&currStreakLabel=a8ffcc&sideLabels=a8ffcc&dates=5dde8a&currStreakNum=3DFF7A&sideNums=5dde8a" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PANAITALESSANDRO&theme=chartreuse-dark&border_radius=12&border=2d8a4e&background=0d1f12&stroke=2d8a4e&ring=3DFF7A&fire=5dde8a&currStreakLabel=a8ffcc&sideLabels=a8ffcc&dates=5dde8a&currStreakNum=3DFF7A&sideNums=5dde8a" />
 
 </div>
 
@@ -80,7 +76,7 @@
 
 ## ✿ Activity Graph ✿
 
-[![Alessandro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlessandroPanait&bg_color=0d1f12&color=5dde8a&line=3DFF7A&point=ffffff&area=true&area_color=2d8a4e&border_color=2d8a4e&radius=12)](https://github.com/AlessandroPanait)
+[![Alessandro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PANAITALESSANDRO&bg_color=0d1f12&color=5dde8a&line=3DFF7A&point=ffffff&area=true&area_color=2d8a4e&border_color=2d8a4e&radius=12)](https://github.com/PANAITALESSANDRO)
 
 </div>
 
