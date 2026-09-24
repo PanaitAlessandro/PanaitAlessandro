@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjB6b2Jud3Nxdnd5eTlydG5qN3NhNXJnbXFjeDgwaXlwNGhnaTczeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTsJR9qHvBupiOsyPo/giphy.gif" width="500"/>
+  <img src="https://i.giphy.com/QTsJR9qHvBupiOsyPo.gif" width="500"/>
 </p>
 
 <h1 align="center">Alessandro Panait</h1>
