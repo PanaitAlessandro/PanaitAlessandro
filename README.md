@@ -13,7 +13,7 @@
 | 🥈 | **Locus Hackathon** | ![Rank](https://img.shields.io/badge/🌍_2nd_Worldwide-C0C0C0?style=flat-square) ![Prize](https://img.shields.io/badge/Prize-$300-2ea44f?style=flat-square) |
 | 🤖 | **ReplyChallenge AI Agent Challenge 2026** | ![Rank](https://img.shields.io/badge/🌍_24th_Worldwide-blueviolet?style=flat-square) |
 | 🛡️ | **OliCyber 2026** | ![Rank](https://img.shields.io/badge/📍_128th_in_Italy-009246?style=flat-square) |
-| 🦾 | **RoboCup Junior** | ![Rank](https://img.shields.io/badge/📍_20th_in_Veneto-orange?style=flat-square) |
+| 🦾 | **RoboCup Junior** | ![Rank](https://img.shields.io/badge/📍_20th-orange?style=flat-square) |
 
 ---
 
