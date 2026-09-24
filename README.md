@@ -3,8 +3,6 @@
 </p>
 
 
-<h1 align="center">Alessandro Panait</h1>
-
 ---
 
 ## 🏆 Achievements
