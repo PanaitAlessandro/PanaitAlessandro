@@ -14,18 +14,3 @@
 | 🤖 | **ReplyChallenge AI Agent Challenge 2026** | ![Rank](https://img.shields.io/badge/🌍_24th_Worldwide-blueviolet?style=flat-square) |
 | 🛡️ | **OliCyber 2026** | ![Rank](https://img.shields.io/badge/📍_128th_in_Italy-009246?style=flat-square) |
 | 🦾 | **RoboCup Junior** | ![Rank](https://img.shields.io/badge/📍_20th-orange?style=flat-square) |
-
----
-
-## 🎯 Goals for Academic Year 2026/2027
-
-### 🏅 Competitions
-- [ ] 🥇 National Finals: **OII** (medal)
-- [ ] 🥇 National Finals: **OIS**
-- [ ] 🤖 National Finals: **OIA**
-- [ ] 🛡️ National Finals: **OliCyber** (medal)
-- [ ] 🦾 National Finals: **RoboCup Junior**
-- [ ] 🎓 Be selected for the **National Informatics Competition**
-- [ ] 🚀 **ReplyChallenge 2027**: Top 3
-- [ ] 💎 **64k Stunning Running**: Platinum
-- [ ] 🔐 Participate in **CyberChallenge**
